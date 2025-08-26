@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "login": {
+      "title": "نظام المحاسبة ابراهيم",
+      "subtitle": "تسجيل الدخول إلى حسابك",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "submit": "تسجيل الدخول"
+    },
+    "dashboard": {
+      "totalIncome": "إجمالي الإيرادات",
+      "totalExpenses": "إجمالي المصروفات",
+      "grossProfit": "الربح الإجمالي",
+      "financialActivity": "النشاط المالي",
+      "recentTransactions": "أحدث المعاملات",
+      "date": "التاريخ",
+      "type": "النوع",
+      "amount": "المبلغ",
+      "currency": "العملة",
+      "income": "إيراد",
+      "expense": "مصروف"
+    },
+    "months": {
+      "january": "يناير",
+      "february": "فبراير",
+      "march": "مارس",
+      "april": "أبريل",
+      "may": "مايو",
+      "june": "يونيو",
+      "july": "يوليو",
+      "august": "أغسطس",
+      "september": "سبتمبر",
+      "october": "أكتوبر",
+      "november": "نوفمبر",
+      "december": "ديسمبر"
+    }
+  }
+}
